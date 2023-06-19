@@ -1,0 +1,27 @@
+h1{
+    background-color: black;
+    color: blue;
+    font-family:fantasy; 
+    margin-top: 20px;
+    padding-top: 20px;
+    border: 1px;
+}
+
+li{
+font-size: 20px;
+}
+
+#cabecalho{
+color: rgb(170, 43, 43);
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+border: 30cm;
+}
+
+.classe{
+    color: aqua;
+    background-color: black;
+    display: flex;
+    margin: auto;
+}
+
+@import url(https://fonts.google.com/specimen/Roboto);
